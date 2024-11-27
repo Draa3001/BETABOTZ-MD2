@@ -1,26 +1,26 @@
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866'
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.instagram = 'https://instagram.com/erlanrahmat_14'
-global.wm = '© Tio'
+global.owner = ['6285603256172']  
+global.mods = ['6285603256172'] 
+global.prems = ['6285603256172']
+global.nameowner = 'Kingg'
+global.numberowner = '6285603256172'
+global.mail = 'epepbooyah1a@gmail.com' 
+global.gc = 'https://chat.whatsapp.com/FuLN9mW1pbgCxgCMllBgZA'
+global.instagram = '-'
+global.wm = '© Sepp'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
-global.maxwarn = '2' // Peringatan maksimum
+global.author = 'King'
+global.maxwarn = '5' // Peringatan maksimum
 global.antiporn = true // Auto delete pesan porno (bot harus admin)
 
 //INI WAJIB DI ISI!//
-global.lann = 'YOUR_APIKEY_HERE' 
+global.lann = 'nL2BoG36' 
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = 'U8HPVtIJ'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
@@ -28,8 +28,8 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.betabotz.eu.org': 'APIKEY', 
-  'https://api.botcahx.eu.org': 'APIKEY'
+  'https://api.betabotz.eu.org': 'nL2BoG36', 
+  'https://api.botcahx.eu.org': 'U8HPVtIJ'
 }
 
 let fs = require('fs')
